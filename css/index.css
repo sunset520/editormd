@@ -1,0 +1,9 @@
+html,
+body {
+    background-color: black;
+}
+html,
+body,
+div#editor {
+    height: 100%;
+}
